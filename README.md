@@ -10,7 +10,12 @@ interfaces, and utilities for developing and operating it.
 
 Directory structure
 -------------------
-* **hw/chassis** - Hardware design files - for chassis
+* **hw** - Hardware design files
+** **hw/chassis** - Hardware design files - chassis
+* **sw** - Software
+* **sw/ardupilot** - ardupilot
+
+
 
 
 First Time Setup
