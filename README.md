@@ -1,4 +1,4 @@
-hardware forked from:
+chassis hardware forked from:
 mjbots hoverbot
 * GitHub https://github.com/mjbots/hoverbot
 * Most files are free hardware and software: Apache 2.0 License
