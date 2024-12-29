@@ -10,7 +10,7 @@ interfaces, and utilities for developing and operating it.
 
 Directory structure
 -------------------
-* **hw/** - Hardware design files
+* **hw/chassis** - Hardware design files - for chassis
 
 
 First Time Setup
