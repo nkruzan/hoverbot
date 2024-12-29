@@ -2,6 +2,7 @@
 
 # Copyright 2015 Josh Pieper, jjp@pobox.com.  All rights reserved.
 # Copyright 2015 Mikhail Afanasyev.  All rights reserved.
+# Copyright 2024-2025, Nicholas Kruzan, nickkruzan@gmail.com
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -97,8 +98,7 @@ def main():
     g_verbosity += options.verbose - options.quiet
 
     PKGLIST = split('''
-    bison flex gcc g++ curl libc6-dev mesa-common-dev libglu1-mesa-dev
-    libtinfo5 libxrender-dev libxi-dev libx11-xcb-dev
+    curl 
     ''')
 
     ubuntu_release = subprocess.check_output(["lsb_release", "-cs"]).strip()

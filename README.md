@@ -11,7 +11,6 @@ interfaces, and utilities for developing and operating it.
 Directory structure
 -------------------
 * **hw/** - Hardware design files
-* **docs/** - Documentation.
 
 
 First Time Setup
