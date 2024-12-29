@@ -1,10 +1,10 @@
 # Hoverbot BOM
 
 * 3D printed parts (all designed for Prusament PETG with a Prusa MK3s and 0.6mm nozzle)
-  * [Base](hw/hoverbot_base.3mf)
-  * [Chassis](hw/hoverbot_chassis.3mf)
-  * [Chassis cover](hw/hoverbot_chassis_cover.3mf)
-  * [Base cover, battery rails, and battery cover](hw/hoverbot_rails_base_cover.3mf)
+  * [Base](hw/chassis/hoverbot_base.3mf)
+  * [Chassis](hw/chassis/hoverbot_chassis.3mf)
+  * [Chassis cover](hw/chassis/hoverbot_chassis_cover.3mf)
+  * [Base cover, battery rails, and battery cover](hw/chassis/hoverbot_rails_base_cover.3mf)
 * Hardware
   * 28x [M3 heat set inserts / 94180A331](https://www.mcmaster.com/94180A331/)
     * 18x in base
